@@ -38,7 +38,7 @@ $(document).ready(function() {
     });
 
     swal({
-        title: "Congratulations, You have won 100 points",
+        title: "Congratulations, You have won 200 points",
         text: "To redeem take a screenshot of this window and share it with your seller!",
         icon: "success",
       });
